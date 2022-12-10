@@ -210,7 +210,7 @@ $.ajax({
         你距离迷人的WooJaNo约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
-        来到这里就不要走了呗！有空就来找<a href="https://wojano.github.io/about/">我</a>玩好不好嘛！
+        来到这里就不要走了呗！有空就来<a href="https://wojano.github.io/about/">找我玩</a>好不好嘛！
         `;
         }
         showWelcome()
