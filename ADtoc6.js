@@ -5,7 +5,7 @@ $.ajax({
     type: 'get',
     url: 'https://apis.map.qq.com/ws/location/v1/ip',
     data: {
-        key: '	QV2BZ-OZV65-DCMIC-QHE6V-ACVJF-7VBDY',
+        key: 'QV2BZ-OZV65-DCMIC-QHE6V-ACVJF-7VBDY',
         output: 'jsonp',
     },
     dataType: 'jsonp',
